@@ -6,7 +6,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Criz-595&theme=radical&show_icons=true&hide_border=true">
 
-<img src="https://discordapp.com/api/guilds/782646778347388959/widget.png?style=banner2" alt="Discord Banner 2"/>
+![Discord Banner 3](https://discordapp.com/api/guilds/782646778347388959/widget.png?style=banner3)
+<img src="https://discordapp.com/api/guilds/782646778347388959/widget.png?style=banner3" alt="Discord Banner 3"/>
+
 
 
 
