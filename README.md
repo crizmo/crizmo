@@ -8,5 +8,8 @@
 
 <a href="https://discord.gg/Ecy6WpEZsD"><img align="center" src="https://discordapp.com/api/guilds/782646778347388959/widget.png?style=banner2" alt="Discord Banner2"/></a>
 
+<img src="https://discordapp.com/api/guilds/782646778347388959/widget.png?style=banner3" alt="Discord Banner 3"/>
+
+
 
 
