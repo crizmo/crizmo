@@ -6,5 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Criz-595&theme=radical&show_icons=true&hide_border=true">
 
+<a href="https://discord.gg/Y2ww9e7JuC"><img align="center" src="https://discordapp.com/api/guilds/755415722062119003/widget.png?style=banner2" alt="Discord Banner2"/></a>
+
 
 
