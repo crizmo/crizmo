@@ -14,3 +14,5 @@
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Criz-595" alt="visitor badge"/>
 </p>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Criz-595.visitor-badge)
