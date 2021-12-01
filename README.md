@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning unity and cs
+- 🎐  Working on new projects
 
 <table width="100%" align="center">
   <tr>
