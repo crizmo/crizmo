@@ -12,7 +12,9 @@
   </tr>
  <table>
 
-## Discord
+<p align='center'>
+  ## Discord
+</p>
 
 <p align='center'>
   <a href="https://discord.gg/Ecy6WpEZsD"><img src="https://invidget.switchblade.xyz/Ecy6WpEZsD"/></a>
