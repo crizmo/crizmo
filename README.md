@@ -13,7 +13,7 @@
  <table>
 
 <p align='center'>
-  ## Discord
+  Discord
 </p>
 
 <p align='center'>
