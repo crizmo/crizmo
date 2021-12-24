@@ -1,5 +1,5 @@
 <p align='center'>
-  Yo mate !
+  Yo !
 </p>
 
 - 🔭 I’m currently working on personal projects
