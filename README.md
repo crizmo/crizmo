@@ -3,7 +3,7 @@
 </p>
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning java & react.js
+- 🌱 Learning java & react.js
 
 <table width="100%" align="center">
   <tr>
