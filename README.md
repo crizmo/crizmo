@@ -2,8 +2,8 @@
   Yo !
 </p>
 
-- 🔭 I’m currently working on personal projects
-- 🌱 Learning node.js and py
+- 🔭 Working on breeze
+- 🌱 code code code code code ...
 
 <table width="100%" align="center">
   <tr>
