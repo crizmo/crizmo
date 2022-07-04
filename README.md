@@ -3,7 +3,7 @@ Oi ! Im Criz | Kurizu , currently exploring 💤
 ---
 
 <a href="https://api-breeze.herokuapp.com/api/784141856426033233">
-  <img src="https://camo.githubusercontent.com/a7a8689949be7d227121d0dee830646ffbece6ffd8c04c2c748b974fdeb7f329/68747470733a2f2f6170692d627265657a652e6865726f6b756170702e636f6d2f6170692f373834313431383536343236303333323333?" align="right" />
+  <img src="https://api-breeze.herokuapp.com/api/784141856426033233?about=what%20how%20am%20i%20alive&banner=https://i0.wp.com/recommendmeanime.com/wp-content/uploads/2017/04/best-sites-to-find-free-anime-wallpapers.jpg?fit=1920%2C1080&ssl=1" align="right" />
 </a>
 
 -- As of now <br>
