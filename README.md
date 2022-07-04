@@ -8,12 +8,12 @@ Oi ! Im Criz | Kurizu , currently exploring 💤
 
 -- As of now <br>
 Just exploring the world with da curious mindset <br>
-Learning python , sql , r <br>
+Drinking coffee <br>
 
 -- Stuff <br>
 : My latest project { still in developemt } is breeze <br>
 : Partially learning sql and python <br>
-: Drinking coffee <br>
+: learning ai stuff
 
 -- Links <br>
 [Website](https://kurizu.vercel.app/) <br>
