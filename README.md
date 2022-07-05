@@ -11,7 +11,7 @@ Just exploring the world with da curious mindset <br>
 Drinking coffee <br>
 
 -- Stuff <br>
-: My latest project { still in developemt } is breeze <br>
+: Working on breeze <br>
 : Partially learning sql and python <br>
 : learning ai stuff
 
