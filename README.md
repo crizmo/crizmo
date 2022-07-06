@@ -1,5 +1,5 @@
 Oi ! Im Criz | Kurizu , currently exploring 💤
-
+<img align="center" src="https://media.discordapp.net/attachments/663186474933420042/917625272147275826/dance.gif" alt=":D" />
 ---
 
 <a href="https://api-breeze.herokuapp.com/api/784141856426033233">
@@ -19,5 +19,4 @@ Drinking coffee <br>
 [Website](https://kurizu.vercel.app/) <br>
 [Discord](https://discord.gg/VcMPV8vc2x)
 
-
-<img align="center" src="https://media.discordapp.net/attachments/663186474933420042/917625272147275826/dance.gif" alt=":D" />
+![Github Stats](https://github-readme-stats.vercel.app/api?username=crizmo&show_icons=true&theme=tokyonight)
