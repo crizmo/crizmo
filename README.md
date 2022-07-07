@@ -2,7 +2,7 @@ Oi ! Im Criz | Kurizu , currently exploring 💤
 <img align="center" src="https://media.discordapp.net/attachments/663186474933420042/917625272147275826/dance.gif" alt=":D" />
 ---
 
-<a href="https://api-breeze.herokuapp.com/api/784141856426033233">
+<a href="https://api-breeze.herokuapp.com/api/card/784141856426033233">
   <img src="https://api-breeze.herokuapp.com/api/card/784141856426033233" align="right" />
 </a>
 
