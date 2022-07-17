@@ -13,7 +13,6 @@ Drinking coffee <br>
 -- Stuff <br>
 : Working on breeze <br>
 : Partially learning sql and python <br>
-: learning ai stuff
 
 -- Links <br>
 [Website](https://kurizu.vercel.app/) <br>
