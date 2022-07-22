@@ -3,7 +3,7 @@ Oi ! Im Criz | Kurizu , currently exploring 💤
 ---
 
 <a href="https://api-breeze.herokuapp.com/api/card/784141856426033233">
-  <img src="https://api-breeze.herokuapp.com/api/card/784141856426033233?about=oi" align="right" />
+  <img src="https://api-breeze.herokuapp.com/api/card/784141856426033233?about=pop caching" align="right" />
 </a>
 
 -- As of now <br>
