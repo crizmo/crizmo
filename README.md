@@ -18,4 +18,6 @@ Drinking coffee <br>
 [Website](https://kurizu.vercel.app/) <br>
 [Discord](https://discord.gg/VcMPV8vc2x)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=crizmo&show_icons=true&theme=tokyonight)
+<!---
+[Github Stats](https://github-readme-stats.vercel.app/api?username=crizmo&show_icons=true&theme=tokyonight)
+-->
