@@ -11,8 +11,8 @@ Just exploring the world with da curious mindset <br>
 Drinking coffee <br>
 
 -- Stuff <br>
-: Working on breeze <br>
-: Partially learning sql and python <br>
+: Working on VehiCall <br>
+: Partially learning MERN stack <br>
 
 -- Links <br>
 [Website](https://kurizu.vercel.app/) <br>
