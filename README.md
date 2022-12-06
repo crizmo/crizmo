@@ -7,7 +7,7 @@ Oi ! Im Criz | Kurizu , currently exploring 💤
 </a>
 
 -- As of now <br>
-Just exploring the world with da curious mindset <br>
+Just exploring <br>
 Drinking coffee <br>
 
 -- Stuff <br>
