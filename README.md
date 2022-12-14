@@ -11,7 +11,7 @@ Just exploring <br>
 Drinking coffee <br>
 
 -- Stuff <br>
-: Working on VehiCall <br>
+: Working on GitCon <br>
 : Partially learning MERN stack <br>
 
 -- Links <br>
