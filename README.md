@@ -3,7 +3,7 @@ Oi ! Im Criz | Kurizu , currently exploring 💤
 ---
 
 <a href="https://breeze-api.kurizu.repl.co/api/compact/784141856426033233?banner=https://staticg.sportskeeda.com/editor/2022/10/72d24-16655552144135-1920.jpg">
-  <img src="https://breeze-api.kurizu.repl.co/api/compact/784141856426033233?banner=https://staticg.sportskeeda.com/editor/2022/10/72d24-16655552144135-1920.jpg" align="right" />
+  <img src="https://breeze-api.kurizu.repl.co/api/compact/784141856426033233?about=Exploring&banner=https://staticg.sportskeeda.com/editor/2022/10/72d24-16655552144135-1920.jpg" align="right" />
 </a>
 
 -- As of now <br>
