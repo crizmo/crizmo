@@ -19,8 +19,8 @@ Drinking coffee <br>
 [Discord](https://discord.gg/VcMPV8vc2x)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=crizmo&theme=github_dark&show_icons=true&count_private=true" style="width:55%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crizmo&layout=compact&hide=html&theme=github_dark&langs_count=8" style="width:40%;" align="right"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=crizmo&theme=github_dark&show_icons=true&count_private=true" style="width:55%;" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=crizmo&layout=compact&hide=html&theme=github_dark&langs_count=8" style="width:40%;" align="right"/>
 </div>
 
 <!---
