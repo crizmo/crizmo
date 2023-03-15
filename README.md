@@ -2,8 +2,8 @@ Oi ! Im Criz | Kurizu , currently exploring 💤
 <img align="center" src="https://media.discordapp.net/attachments/663186474933420042/917625272147275826/dance.gif" alt=":D" />
 ---
 
-<a href="https://discord-cards.kurizu.repl.co/api/compact/784141856426033233?banner=https://staticg.sportskeeda.com/editor/2022/10/72d24-16655552144135-1920.jpg">
-  <img src="https://discord-cards.kurizu.repl.co/api/compact/784141856426033233?banner=https://staticg.sportskeeda.com/editor/2022/10/72d24-16655552144135-1920.jpg" align="right" />
+<a href="https://discord-cards.kurizu.repl.co/api/compact/784141856426033233?banner=https://staticg.sportskeeda.com/editor/2022/10/72d24-16655552144135-1920.jpg&about=Gotta%20love%20oligarchy">
+  <img src="https://discord-cards.kurizu.repl.co/api/compact/784141856426033233?banner=https://staticg.sportskeeda.com/editor/2022/10/72d24-16655552144135-1920.jpg&about=Gotta%20love%20oligarchy" align="right" />
 </a>
 
 -- As of now <br>
