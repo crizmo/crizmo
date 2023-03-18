@@ -3,7 +3,7 @@ Oi ! Im Criz | Kurizu , currently exploring 💤
 ---
 
 <a href="https://discord-cards.kurizu.repl.co/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://w.wallha.com/ws/14/RXFKCB6q.jpg">
-  <img src="https://discord-cards.kurizu.repl.co/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://w.wallha.com/ws/14/RXFKCB6q.jpg" align="right" />
+  <img src="https://discord-cards.kurizu.repl.co/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://w.wallha.com/ws/14/RXFKCB6q.jpg" alt=":D" align="right" />
 </a>
 
 -- As of now <br>
