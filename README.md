@@ -6,13 +6,7 @@ Oi ! Im Criz | Kurizu , currently exploring 💤
   <img src="https://discord-cards.kurizu.repl.co/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://staticg.sportskeeda.com/editor/2022/10/72d24-16655552144135-1920.jpg" alt=":D" align="right" />
 </a>
 
--- As of now <br>
-Just exploring <br>
-Drinking coffee <br>
-
--- Stuff <br>
-: Working on OpenUp <br>
-: Partially learning MERN stack <br>
+Learning new stuff :D <br>
 
 -- Links <br>
 [Website](https://kurizu.vercel.app/) <br>
