@@ -1,7 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/970974282681307187/1110482381619597353/github_bg.png" alt=":D" style="width: 100%;" />
 
-<a href="https://discord-cards.kurizu.repl.co/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://staticg.sportskeeda.com/editor/2022/10/72d24-16655552144135-1920.jpg">
-  <img src="https://discord-cards.kurizu.repl.co/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://staticg.sportskeeda.com/editor/2022/10/72d24-16655552144135-1920.jpg" alt=":D" align="right" style="margin-right: 40px; margin-top: 80px" />
+<a href="https://discord-cards.kurizu.repl.co/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg">
+  <img src="https://discord-cards.kurizu.repl.co/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg" alt=":D" align="right" style="margin-right: 40px; margin-top: 80px" />
 </a>
 
 # 📝 About Me
