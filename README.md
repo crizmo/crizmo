@@ -19,7 +19,7 @@
 - [AnyAnime](https://github.com/crizmo/AnyAnime) - Random anime pfp generator ! 
         With over 100k+ hits , 4.5k+ npm downloads
 
-> These are only a few of my projects, check out [kurizu.vercel.app](https://kurizu.vercel.app/) for more projects and descriptions of them
+> These are only a few of my projects, check out [kurizu.vercel.app](https://kurizu.vercel.app/) for more projects i've worked on
 
 # My Stats
 
