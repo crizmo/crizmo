@@ -5,8 +5,8 @@
 </a>
 
 # 📝 About Me
-+ 🐱 In love with cats
-+ 👨‍💻 Currently working on 3 epik projects
++ 🐱 Gato
++ 👨‍💻 Currently working on 3 projects
 + ✏️ Likes drawing & coding
 + 🔭 Trying to learn new things everyday
 
