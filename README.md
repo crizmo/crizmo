@@ -17,7 +17,7 @@
 - [Cordle](https://github.com/crizmo/Cordle) - Wordle for programmers ! 
 - [Elina Bot](https://github.com/crizmo/Elina-dev) - An anime themed discord bot
 - [AnyAnime](https://github.com/crizmo/AnyAnime) - Random anime pfp generator ! 
-        With over 100k+ hits , 4.5k+ npm downloads
+        With over 100k+ hits , 5k+ npm downloads
 
 > These are only a few of my projects, check out [kurizu.vercel.app](https://kurizu.vercel.app/) for more projects i've worked on
 
