@@ -15,7 +15,8 @@
 - [Image2url](https://github.com/crizmo/image2url) - Converts image to url using discord.js 
 - [Timely](https://github.com/crizmo/Timely) - Reverse Time Management Tool
 - [Cordle](https://github.com/crizmo/Cordle) - Wordle for programmers ! 
-- [Elina Bot](https://github.com/crizmo/Elina-dev) - An anime themed discord bot
+- [Elina Bot](https://github.com/crizmo/Elina-dev) - An anime themed discord bot ! 
+        Across 95+ servers, Totaling around 10k+ users
 - [AnyAnime](https://github.com/crizmo/AnyAnime) - Random anime pfp generator ! 
         With over 100k+ hits , 5k+ npm downloads
 
