@@ -4,6 +4,10 @@
   <img src="https://discord-cards.onrender.com/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg" alt=":D" align="right" style="margin-right: 40px; margin-top: 80px" />
 </a>
 
+# Notice
+All services hosted on Render are temporarily paused. Working to resolve this swiftly. <br/>
+Sorry for the inconvenience ! 
+
 # 📝 About Me
 + 🐱 Gato
 + 👨‍💻 Currently working on 3 projects
