@@ -29,4 +29,4 @@ Sorry for the inconvenience !
 # 📜 My Stats
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=crizmo&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true)
-![langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=crizmo&layout=compact&hide=html&theme=github_dark&langs_count=10)
+![langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=crizmo&layout=compact&hide=html&theme=github_dark&langs_count=8)
