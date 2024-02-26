@@ -1,4 +1,6 @@
-<img src="https://cdn.discordapp.com/attachments/970974282681307187/1110482381619597353/github_bg.png" alt=":D" style="width: 100%;" />
+<img src="https://github.com/crizmo/crizmo/assets/83665497/133ae790-015e-426e-acef-2102eb443ab3" alt=":D" style="width: 100%;" />
+Banner by - <a href="https://atnajoy.artstation.com/projects/W2BvVv">atnajoy</a>
+
 
 <a href="https://discord-cards.onrender.com/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg">
   <img src="https://discord-cards.onrender.com/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg" alt=":D" align="right" style="margin-right: 40px; margin-top: 80px" />
