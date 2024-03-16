@@ -1,16 +1,18 @@
 <img src="https://github.com/crizmo/crizmo/assets/83665497/133ae790-015e-426e-acef-2102eb443ab3" alt=":D" style="width: 100%;" />
 Banner by - <a href="https://atnajoy.artstation.com/projects/W2BvVv">atnajoy</a>
 
+# 📝 About Me
 
-<a href="https://discord-cards.onrender.com/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg">
-  <img src="https://discord-cards.onrender.com/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg" alt=":D" align="right" style="margin-right: 40px; margin-top: 80px" />
+  <a href="https://discord-cards.onrender.com/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg">
+  <img src="https://discord-cards.onrender.com/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg" alt=":D" align="right" style="margin-right: 40px;" />
 </a>
 
-# 📝 About Me
 + 🐱 Gato
 + 👨‍💻 Currently working on 3 projects
 + ✏️ Likes drawing & coding
 + 🔭 Trying to learn new things everyday
++ 💥 Research enthusiast
+
 
 # 🛠️ What I've made
 - [DiscordCards](https://github.com/crizmo/DiscordCards) - Discord activity cards
