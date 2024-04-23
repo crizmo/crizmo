@@ -16,7 +16,7 @@ Banner by - <a href="https://atnajoy.artstation.com/projects/W2BvVv">atnajoy</a>
 
 # 🛠️ What I've made
 - [DiscordCards](https://github.com/crizmo/DiscordCards) - Discord activity cards
-- [Image2url](https://github.com/crizmo/image2url) - Converts image to url using discord.js 
+- [Image2url](https://github.com/crizmo/image2url) - Converts image to url using discord.js | ImgBB
 - [Timely](https://github.com/crizmo/Timely) - Reverse Time Management Tool
 - [Cordle](https://github.com/crizmo/Cordle) - Wordle for programmers ! 
 - [Elina Bot](https://github.com/crizmo/Elina-dev) - An anime themed discord bot ! 
