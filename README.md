@@ -3,8 +3,8 @@ Banner by - <a href="https://atnajoy.artstation.com/projects/W2BvVv">atnajoy</a>
 
 # 📝 About Me
 
-  <a href="https://discord-cards.onrender.com/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg">
-  <img src="https://discord-cards.onrender.com/api/compact/784141856426033233?about=Gotta%20love%20oligarchy&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg" alt=":D" align="right" style="margin-right: 40px;" />
+  <a href="https://discord-cards.onrender.com/api/compact/784141856426033233?about=Silly&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg">
+  <img src="https://discord-cards.onrender.com/api/compact/784141856426033233?about=Silly&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg" alt=":D" align="right" style="margin-right: 40px;" />
 </a>
 
 + 🐱 Gato
