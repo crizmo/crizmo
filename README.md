@@ -22,7 +22,7 @@ Banner by - <a href="https://atnajoy.artstation.com/projects/W2BvVv">atnajoy</a>
 - [Elina Bot](https://github.com/crizmo/Elina-dev) - An anime themed discord bot ! 
         Across 95+ servers, Totaling around 10k+ users
 - [AnyAnime](https://github.com/crizmo/AnyAnime) - Random anime image / gif generator ! 
-        With over 150k+ hits , 7k+ npm downloads
+        With over 200k+ hits , 10k+ npm downloads
 
 > These are only a few of my projects, check out [kurizu.vercel.app](https://kurizu.vercel.app/) for more projects i've worked on
 
