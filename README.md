@@ -1,5 +1,5 @@
-<img src="https://github.com/crizmo/crizmo/assets/83665497/133ae790-015e-426e-acef-2102eb443ab3" alt=":D" style="width: 100%;" />
-Banner by - <a href="https://atnajoy.artstation.com/projects/W2BvVv">atnajoy</a>
+<img src="https://i.pinimg.com/originals/fe/dc/05/fedc05d06d8d7438485c2ad48d9aa865.gif" alt=":D" style="width: 100vw;" />
+Banner by someone on Pinterest [ do let me know if you know them ] 
 
 # 📝 About Me
 
