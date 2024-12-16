@@ -16,13 +16,15 @@ Banner by someone on Pinterest [ do let me know if you know them ]
 
 # 🛠️ What I've made
 - [DiscordCards](https://github.com/crizmo/DiscordCards) - Discord activity cards
-- [Image2url](https://github.com/crizmo/image2url) - Converts image to url using discord.js | ImgBB
-- [Timely](https://github.com/crizmo/Timely) - Reverse Time Management Tool
-- [Cordle](https://github.com/crizmo/Cordle) - Wordle for programmers ! 
 - [Elina Bot](https://github.com/crizmo/Elina-dev) - An anime themed discord bot ! 
         Across 95+ servers, Totaling around 10k+ users
 - [AnyAnime](https://github.com/crizmo/AnyAnime) - Random anime image / gif generator ! 
         With over 200k+ hits , 10k+ npm downloads
+- [MangaMemories](https://mangamemories.vercel.app/) - Turn your precious moments into personalized manga panels
+- [PaintPals](https://github.com/crizmo/PaintPals) - Multiplayer drawing application inspired by the classic MS Paint
+- [Image2url](https://github.com/crizmo/image2url) - Converts image to url using discord.js | ImgBB
+- [Timely](https://github.com/crizmo/Timely) - Reverse Time Management Tool
+- [Cordle](https://github.com/crizmo/Cordle) - Wordle for programmers ! 
 
 > These are only a few of my projects, check out [kurizu.vercel.app](https://kurizu.vercel.app/) for more projects i've worked on
 
