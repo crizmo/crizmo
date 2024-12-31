@@ -22,6 +22,7 @@ Banner by someone on Pinterest [ do let me know if you know them ]
         With over 200k+ hits , 10k+ npm downloads
 - [MangaMemories](https://mangamemories.vercel.app/) - Turn your precious moments into personalized manga panels
 - [PaintPals](https://github.com/crizmo/PaintPals) - Multiplayer drawing application inspired by the classic MS Paint
+- [Japanese-easy](https://github.com/crizmo/japanese-easy) - NPM package designed to make it easier to work with Japanese Kana and Kanji dataa
 - [Image2url](https://github.com/crizmo/image2url) - Converts image to url using discord.js | ImgBB
 - [Timely](https://github.com/crizmo/Timely) - Reverse Time Management Tool
 - [Cordle](https://github.com/crizmo/Cordle) - Wordle for programmers ! 
