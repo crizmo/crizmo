@@ -17,9 +17,10 @@ Banner by someone on Pinterest [ do let me know if you know them ]
 # 🛠️ What I've made
 - [Üben](https://ubens.vercel.app/) - The ultimate SRS learning platform.
 - [PromptMotion](https://github.com/crizmo/PromptMotion) - A tool that creates frame-based animations from script descriptions using AI-generated visuals.
-- [Japanese-easy](https://github.com/crizmo/japanese-easy) - NPM package designed to make it easier to work with Japanese Kana and Kanji data
 - [MapNest](https://mapnest.vercel.app/) - Comprehensive tool for visually mapping and planning entire trip itineraries.
-- [MangaMemories](https://mangamemories.vercel.app/) - Turn your precious moments into personalized manga panels
+- [KAnki](https://github.com/crizmo/KAnki) - Anki for jailbroken Kindle devices.
+- [KWordle](https://github.com/crizmo/KWordle) - Wordle for jailbroken Kindle devices.
+- [Japanese-easy](https://github.com/crizmo/japanese-easy) - NPM package designed to make it easier to work with Japanese Kana and Kanji data
 - [PaintPals](https://github.com/crizmo/PaintPals) - Multiplayer drawing application inspired by the classic MS Paint
 - [Elina Bot](https://github.com/crizmo/Elina-dev) - An anime themed discord bot ! 
         Across 95+ servers, Totaling around 10k+ users
