@@ -35,5 +35,5 @@ Banner by someone on Pinterest [ do let me know if you know them ]
 
 # 📜 My Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crizmo&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crizmo&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crizmo&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crizmo&theme=discord_old_blurple)
