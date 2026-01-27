@@ -15,7 +15,7 @@ Banner by someone on Pinterest [ do let me know if you know them ]
 
 
 # 🛠️ What I've made
-- [Üben](https://ubens.vercel.app/) - The ultimate SRS learning platform.
+- [Üben](https://uben.online/) - The ultimate SRS learning platform.
 - [PromptMotion](https://github.com/crizmo/PromptMotion) - A tool that creates frame-based animations from script descriptions using AI-generated visuals.
 - [MapNest](https://mapnest.vercel.app/) - Comprehensive tool for visually mapping and planning entire trip itineraries.
 - [KAnki](https://github.com/crizmo/KAnki) - Anki for jailbroken Kindle devices.
