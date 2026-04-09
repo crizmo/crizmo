@@ -25,7 +25,7 @@ Banner by someone on Pinterest [ do let me know if you know them ]
 - [Elina Bot](https://github.com/crizmo/Elina-dev) - An anime themed discord bot ! 
         Across 95+ servers, Totaling around 10k+ users
 - [AnyAnime](https://github.com/crizmo/AnyAnime) - Random anime image / gif generator ! 
-        With over 200k+ hits , 20k+ npm downloads
+        With over 300k+ hits , 20k+ npm downloads
 - [Image2url](https://github.com/crizmo/image2url) - Converts image to url using discord.js | ImgBB
 - [DiscordCards](https://github.com/crizmo/DiscordCards) - Discord activity cards
 - [Timely](https://github.com/crizmo/Timely) - Reverse Time Management Tool
